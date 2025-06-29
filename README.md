@@ -1,9 +1,5 @@
-### Hello 🐱‍👤
+### Hi!
 
-I'm a begginner programmer and Computing Engineering student, i am always trying to evolve, and hope someday i can start work as a programmer.
+I'm a cybersecurity and programming enthusiast, focused on Blue Team and Java Backend, here i will post all my project ideas and studies. 
 
-- Currently learning Java
-- - I find the Game Dev route pretty interesting, i love indie games and i find interesting that each one is unique
-
-  He/him
 
